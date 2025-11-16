@@ -1,4 +1,4 @@
-# ReBrew NeuroFlow – Subscription Intelligence Dashboard
+# ReBrew 
 
 Streamlit dashboard for ReBrew that:
 - Shows top 5 marketing insights with clean, emoji‑based charts.
